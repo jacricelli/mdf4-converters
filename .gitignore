@@ -1,4 +1,6 @@
 .idea
+.vscode
+build/
 vcpkg
 cmake-build-*
 venv*
@@ -6,3 +8,4 @@ __pycache__
 
 *.exe
 *.zip
+*.code-workspace
